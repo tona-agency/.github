@@ -8,7 +8,7 @@ Eine Marke von TONA Arts. Hier zeigen wir drei unserer Anwendungen: das TONA Rel
 
 ![TONA Relief Studio: Fächerblatt-Relief in der 3D-Ansicht mit Höhenmesser](bilder/trs-3d-relief.png)
 
-Vom Bild zur druckfertigen Masterfliese, in einem Programm. TRS macht aus einem Foto, einer Zeichnung oder einer Höhenkarte ein räumliches Relief, setzt es auf einen Fliesenrohling und bereitet es für den Harzdruck vor. Höhe, Glättung und Flanken lassen sich gezielt einstellen, ein Höhenmesser zeigt die Höhe an jeder Stelle. Stützen und Druckschichten sind vor dem Druck sichtbar. Desktop-Programm für Windows, in Entwicklung.
+Vom Bild zum räumlichen Relief, für künstlerische und technische Projekte. TRS macht aus einem Foto, einer Zeichnung oder einer Höhenkarte ein räumliches Relief und bereitet es für den Druck oder die Weiterverarbeitung vor, von Reliefbildern und Ornamenten bis zu Stempeln, Formen und Masterfliesen. Höhe, Glättung und Flanken lassen sich gezielt einstellen, ein Höhenmesser zeigt die Höhe an jeder Stelle. Stützen und Druckschichten sind vor dem Druck sichtbar. Desktop-Programm für Windows, in Entwicklung.
 
 [Projekt im Portfolio](https://projekte.tona.agency/#relief-studio)
 
@@ -34,7 +34,7 @@ Die Code-Repositories sind privat.
 
 TONA Agency is a brand of TONA Arts.
 
-**TONA Relief Studio** takes an image to a print-ready master tile in one application: relief from photo, drawing or height map, tile blank, supports and resin-print output, with a height gauge for precise control. Windows desktop application, in development.
+**TONA Relief Studio** turns photos, drawings or height maps into three-dimensional reliefs for artistic and technical projects, from relief pictures and ornaments to stamps, moulds and master tiles, with a height gauge for precise control and output for printing. Windows desktop application, in development.
 
 **KAI AND ME** is a conversational companion with everyday reminders for people with memory problems, for iOS and Android. The Android version has large buttons, an emergency call, alarms and appointments, and caregivers maintain content on a separate page. The new iOS version can also run its language model directly on the device. Being developed further as a TONA Agency building block.
 
